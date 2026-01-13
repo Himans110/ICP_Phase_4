@@ -10,4 +10,4 @@ public class Main{
         return s1.indexOf(s2);
   }
 }
-TC -> O(N X M)
+//TC -> O(N X M)
