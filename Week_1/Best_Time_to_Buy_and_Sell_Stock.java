@@ -23,5 +23,5 @@ public class Main{
       return ans;
     }
 }
-TC -> O(n)
-SC -> O(1)
+// TC -> O(n)
+// SC -> O(1)
